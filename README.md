@@ -1,6 +1,7 @@
 # SE20UARI071_Sensor
 
-## Team Memebers
+## Team Members
+
 SE20UARI071-J.Revanth Kumar
 
 SE20UARI036 -B.Abhiram
